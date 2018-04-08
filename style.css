@@ -276,8 +276,13 @@ a{
 	border-radius: 4px 0px 0px 4px;
 	width: 350px;
 	float: left;
+	margin-left: 50px;
 }
 
 .head-div-position {
 	float: left;
+}
+
+.nav-hide-dl {
+	margin-left: 20px;
 }
